@@ -1,0 +1,18 @@
+# Python garbage
+__pycache__/
+*.pyc
+
+# Virtual Environment (NEVER upload this)
+venv/
+.env
+
+# Testing Cache
+.pytest_cache/
+
+# IDE Settings
+.vscode/
+.idea/
+
+# OS Junk
+.DS_Store
+Thumbs.db
